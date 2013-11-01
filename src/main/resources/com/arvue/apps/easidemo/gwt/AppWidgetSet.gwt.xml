@@ -1,0 +1,4 @@
+<module>
+    <inherits name="com.vaadin.DefaultWidgetSet" />
+    <set-property name="user.agent" value="${mideaas.user.agent}"/>
+</module>
